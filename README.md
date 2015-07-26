@@ -40,3 +40,8 @@ Hosted services
 - https://www.debuggify.net/ - source maps, tracekit [DEAD]
 - http://www.errzero.com/ [DEAD]
 - http://jsnlog.com/
+
+Contributing
+---
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
