@@ -19,13 +19,23 @@ Hosted services
 - https://www.getsentry.com/ - source maps, tracekit
 - http://raygun.io/ - tracekit
 - https://bugsnag.com/ - source maps
-- https://rollbar.com/ - source maps
+- [Rollbar](https://rollbar.com/) - can [trace errors in 3rd party scripts](https://github.com/rollbar/rollbar.js/issues/108#issuecomment-121448333) as well; [free for <5000 events/month](https://rollbar.com/pricing/); source maps
 - https://www.honeybadger.io/
-- http://trackjs.com/
+- [{Track:js}](http://trackjs.com/) - stores timeline of events that have lead to the error
 - https://www.exceptionsjs.com/
 - http://usersnap.com/
 - https://www.atatus.com/
-- https://www.loggly.com/docs/javascript/
+- [Loggly](https://www.loggly.com/docs/javascript/) - [no stack tracing](https://github.com/loggly/loggly-jslogger/issues/24)
+
+
+Self-hosted services
+---
+- http://jsnlog.com/
+
+
+Dead services
+---
+
 - https://getcoalmine.com/ [DEAD, Nov 8, 2013]
 - http://damnit.jupiterit.com/ [DEAD]
 - http://rescuejs.com/ [DEAD, acquired by Bugsnag]
@@ -39,7 +49,6 @@ Hosted services
 - http://www.geterrorzero.com/ [DEAD]
 - https://www.debuggify.net/ - source maps, tracekit [DEAD]
 - http://www.errzero.com/ [DEAD]
-- http://jsnlog.com/
 
 Contributing
 ---
