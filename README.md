@@ -8,24 +8,24 @@ Previously, on <https://gist.github.com/cheeaun/5835757>.
 Hosted services
 ---
 
-- http://errorception.com/ - translate error messages to English
+- http://errorception.com/ - translate error messages to English; stack traces, source maps, smart grouping
 - http://www.exceptionhub.com/
-- http://jserrlog.appspot.com/
 - http://www.muscula.com/ - source maps, translate error messages to English
-- https://www.airbrake.io/ - tracekit, source maps
+- [Airbrake](https://www.airbrake.io/) - tracekit, source maps. [No automatic error capture](https://github.com/airbrake/airbrake-js/issues/82).
 - http://www.errorstack.com/
 - http://jslogger.com/
 - http://qbaka.com/ - source maps
 - https://www.getsentry.com/ - source maps, tracekit
 - http://raygun.io/ - tracekit
-- https://bugsnag.com/ - source maps
+- https://bugsnag.com/ - source maps; [free plan with 2000 errors/month](https://bugsnag.com/pricing)
 - [Rollbar](https://rollbar.com/) - can [trace errors in 3rd party scripts](https://github.com/rollbar/rollbar.js/issues/108#issuecomment-121448333) as well; [free for <5000 events/month](https://rollbar.com/pricing/); source maps
 - https://www.honeybadger.io/
 - [{Track:js}](http://trackjs.com/) - stores timeline of events that have lead to the error
 - https://www.exceptionsjs.com/
-- http://usersnap.com/
+- [Usersnap](http://usersnap.com/) - stack traces; [console recorder include XHR monitoring](https://usersnap.com/features/console-recorder)
 - https://www.atatus.com/
 - [Loggly](https://www.loggly.com/docs/javascript/) - [no stack tracing](https://github.com/loggly/loggly-jslogger/issues/24)
+- [jsErrLog](http://jserrlog.appspot.com/) - running on the free Google AppEngine
 
 
 Self-hosted services
