@@ -27,6 +27,12 @@ Hosted services
 - [Loggly](https://www.loggly.com/docs/javascript/) - [no stack tracing](https://github.com/loggly/loggly-jslogger/issues/24)
 - [jsErrLog](http://jserrlog.appspot.com/) - running on the free Google AppEngine
 
+Comparison between the services
+---
+Following spreadsheet provides good comparison between the services.
+
+http://goo.gl/wCMHSV
+
 
 Self-hosted services
 ---
