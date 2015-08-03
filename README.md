@@ -31,7 +31,7 @@ Comparison between the services
 ---
 Following spreadsheet provides good comparison between the services.
 
-http://goo.gl/wCMHSV
+https://docs.google.com/spreadsheets/d/1IAurU073WiEr8hLeRu6rU_ilX-gaSOXfluXjUlTcQhc/edit#gid=0
 
 
 Self-hosted services
