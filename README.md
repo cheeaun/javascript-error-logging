@@ -23,9 +23,15 @@ Hosted services
 - [{Track:js}](http://trackjs.com/) - stores timeline of events that have lead to the error
 - https://www.exceptionsjs.com/
 - [Usersnap](http://usersnap.com/) - stack traces; [console recorder include XHR monitoring](https://usersnap.com/features/console-recorder)
-- https://www.atatus.com/
+- [Atatus](https://www.atatus.com/) - real user monitoring(RUM), source maps, tracekit, timeline of events
 - [Loggly](https://www.loggly.com/docs/javascript/) - [no stack tracing](https://github.com/loggly/loggly-jslogger/issues/24)
 - [jsErrLog](http://jserrlog.appspot.com/) - running on the free Google AppEngine
+
+Comparison between the services
+---
+Following spreadsheet provides good comparison between the services.
+
+https://docs.google.com/spreadsheets/d/1IAurU073WiEr8hLeRu6rU_ilX-gaSOXfluXjUlTcQhc/edit#gid=0
 
 
 Self-hosted services
