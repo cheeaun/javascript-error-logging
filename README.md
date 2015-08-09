@@ -1,7 +1,7 @@
 JavaScript error logging
-===
+========================
 
-A collection of JavaScript error logging services, resources and shiny things.
+A collection of JavaScript error logging services, and comparisons among them.
 
 Previously, on <https://gist.github.com/cheeaun/5835757>.
 
@@ -27,16 +27,16 @@ Hosted services
 - [Loggly](https://www.loggly.com/docs/javascript/) - [no stack tracing](https://github.com/loggly/loggly-jslogger/issues/24)
 - [jsErrLog](http://jserrlog.appspot.com/) - running on the free Google AppEngine
 
-Comparison between the services
----
-Following spreadsheet provides good comparison between the services.
-
-https://docs.google.com/spreadsheets/d/1IAurU073WiEr8hLeRu6rU_ilX-gaSOXfluXjUlTcQhc/edit#gid=0
-
-
 Self-hosted services
----
+--------------------
 - http://jsnlog.com/
+
+
+Comparisons between services
+----------------------------
+
+* [Slant on JavaScript client-side error logging services](http://www.slant.co/topics/2615/~what-are-the-best-javascript-client-side-error-logging-services)
+* [Comparison matrix in a Google Sheet](https://docs.google.com/spreadsheets/d/1IAurU073WiEr8hLeRu6rU_ilX-gaSOXfluXjUlTcQhc/edit#gid=0) by Igor Santos
 
 
 Dead services
