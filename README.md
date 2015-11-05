@@ -14,7 +14,6 @@ Hosted services
 - [Airbrake](https://www.airbrake.io/) - tracekit, source maps. [No automatic error capture](https://github.com/airbrake/airbrake-js/issues/82).
 - http://www.errorstack.com/
 - http://jslogger.com/
-- http://qbaka.com/ - source maps
 - https://www.getsentry.com/ - source maps, tracekit
 - http://raygun.io/ - tracekit
 - https://bugsnag.com/ - source maps; [free plan with 2000 errors/month](https://bugsnag.com/pricing)
@@ -55,6 +54,7 @@ Dead services
 - http://www.geterrorzero.com/ [DEAD]
 - https://www.debuggify.net/ - source maps, tracekit [DEAD]
 - http://www.errzero.com/ [DEAD]
+- http://qbaka.com/ [DEAD]
 
 Contributing
 ---
