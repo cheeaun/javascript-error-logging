@@ -16,7 +16,7 @@ Hosted services
 - http://jslogger.com/
 - https://www.getsentry.com/ - source maps, tracekit
 - http://raygun.io/ - tracekit
-- https://bugsnag.com/ - source maps; [free plan with 2000 errors/month](https://bugsnag.com/pricing)
+- https://bugsnag.com/ - source maps
 - [Rollbar](https://rollbar.com/) - can [trace errors in 3rd party scripts](https://github.com/rollbar/rollbar.js/issues/108#issuecomment-121448333) as well; [free for <5000 events/month](https://rollbar.com/pricing/); source maps
 - https://www.honeybadger.io/
 - [{Track:js}](http://trackjs.com/) - stores timeline of events that have lead to the error
