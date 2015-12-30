@@ -25,6 +25,7 @@ Hosted services
 - [Atatus](https://www.atatus.com/) - real user monitoring(RUM), source maps, tracekit, timeline of events
 - [Loggly](https://www.loggly.com/docs/javascript/) - [no stack tracing](https://github.com/loggly/loggly-jslogger/issues/24)
 - [jsErrLog](http://jserrlog.appspot.com/) - running on the free Google AppEngine
+- [Ruxit Web Monitoring](https://ruxit.com/web-monitoring/) - real user and synthetic monitoring including stacktraces, originating user action and detailed browser metrics.
 
 Self-hosted services
 --------------------
