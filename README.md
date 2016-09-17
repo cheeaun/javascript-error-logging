@@ -14,7 +14,7 @@ Hosted services
 - [Airbrake](https://www.airbrake.io/) - tracekit, source maps. [No automatic error capture](https://github.com/airbrake/airbrake-js/issues/82).
 - http://www.errorstack.com/
 - http://jslogger.com/
-- https://www.sentry.io/ - source maps, tracekit, breadcrumbs, [inline React error codes](https://blog.sentry.io/2016/08/10/react-minified-errors.html); [free for <150,000 events/month](https://sentry.io/pricing)
+- [Sentry](https://www.sentry.io/) - source maps, tracekit, breadcrumbs, [inline React error codes](https://blog.sentry.io/2016/08/10/react-minified-errors.html); [free for <150,000 events/month](https://sentry.io/pricing); open source [server](https://github.com/getsentry/sentry) and [clients](https://github.com/getsentry/raven-js)
 - http://raygun.io/ - tracekit
 - https://bugsnag.com/ - source maps
 - [Rollbar](https://rollbar.com/) - can [trace errors in 3rd party scripts](https://github.com/rollbar/rollbar.js/issues/108#issuecomment-121448333) as well; [free for <5000 events/month](https://rollbar.com/pricing/); source maps
