@@ -9,7 +9,6 @@ Hosted services
 ---
 
 - http://errorception.com/ - translate error messages to English; stack traces, source maps, smart grouping
-- http://www.exceptionhub.com/
 - http://www.muscula.com/ - source maps, translate error messages to English
 - [Airbrake](https://www.airbrake.io/) - tracekit, source maps. [No automatic error capture](https://github.com/airbrake/airbrake-js/issues/82).
 - http://www.errorstack.com/
@@ -57,6 +56,7 @@ Dead services
 - https://www.debuggify.net/ - source maps, tracekit [DEAD]
 - http://www.errzero.com/ [DEAD]
 - http://qbaka.com/ [DEAD]
+- http://www.exceptionhub.com/ [DEAD]
 
 Contributing
 ---
