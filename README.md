@@ -14,7 +14,7 @@ Hosted services
 - http://www.errorstack.com/
 - http://jslogger.com/
 - [Sentry](https://www.sentry.io/) - source maps, tracekit, breadcrumbs, [inline React error codes](https://blog.sentry.io/2016/08/10/react-minified-errors.html); [free for <150,000 events/month](https://sentry.io/pricing); open source [server](https://github.com/getsentry/sentry) and [clients](https://github.com/getsentry/raven-js)
-- http://raygun.io/ - tracekit
+- [Raygun](https://raygun.com/) - Error and crash reporting software, stack traces, breadcrumbs, source map support, custom data and tags, filtering, email and chat alerts, sensitive data filtering, deployment tracking, user tracking and real user monitoring (RUM), works with every major language and platform.
 - https://bugsnag.com/ - source maps
 - [Rollbar](https://rollbar.com/) - can [trace errors in 3rd party scripts](https://github.com/rollbar/rollbar.js/issues/108#issuecomment-121448333) as well; [free for <5000 events/month](https://rollbar.com/pricing/); source maps
 - https://www.honeybadger.io/
