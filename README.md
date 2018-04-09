@@ -8,6 +8,7 @@ Previously, on <https://gist.github.com/cheeaun/5835757>.
 Hosted services
 ---
 
+- [CatchJS](https://www.catchjs.com) - Screenshots, click trails, email notifications, remote object logging, intelligent error grouping. Extremely lightweight, only 1.78KB.
 - http://errorception.com/ - translate error messages to English; stack traces, source maps, smart grouping
 - http://www.muscula.com/ - source maps, translate error messages to English
 - [Airbrake](https://www.airbrake.io/) - tracekit, source maps. [No automatic error capture](https://github.com/airbrake/airbrake-js/issues/82).
