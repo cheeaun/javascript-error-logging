@@ -26,7 +26,6 @@ Hosted services
 - [Loggly](https://www.loggly.com/docs/javascript/) - [no stack tracing](https://github.com/loggly/loggly-jslogger/issues/24)
 - [jsErrLog](http://jserrlog.appspot.com/) - running on the free Google AppEngine
 - [Ruxit Web Monitoring](https://ruxit.com/web-monitoring/) - real user and synthetic monitoring including stacktraces, originating user action and detailed browser metrics.
-- [ErrLytics](https://errlytics.com/) - errors with stacktrace, code context and event timeline which led to error. Also provides on demand analytics without any integration.
 
 Self-hosted services
 --------------------
@@ -59,6 +58,7 @@ Dead services
 - http://www.errzero.com/ [DEAD]
 - http://qbaka.com/ [DEAD]
 - http://www.exceptionhub.com/ [DEAD]
+- https://errlytics.com/ [DEAD, announced service discontinuation on homepage]
 
 Contributing
 ---
