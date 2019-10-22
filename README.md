@@ -27,6 +27,7 @@ Hosted services
 - [jsErrLog](http://jserrlog.appspot.com/) - running on the free Google AppEngine
 - [Ruxit Web Monitoring](https://ruxit.com/web-monitoring/) - real user and synthetic monitoring including stacktraces, originating user action and detailed browser metrics.
 - [NewRelic Browser](https://newrelic.com/products/browser-monitoring) - JS errors, real user monitoring, AJAX request insights
+- [AppSignal](https://appsignal.com/javascript/)
 
 Self-hosted services
 --------------------
