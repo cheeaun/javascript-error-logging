@@ -8,6 +8,7 @@ Previously, on <https://gist.github.com/cheeaun/5835757>.
 Hosted services
 ---
 
+- [elmah.io](https://elmah.io/features/clientside-logging/) - Error logging, uptime monitoring, and device insights for JavaScript apps. Everything from Vanilla JS to React, Angular, and Vue.js is supported and elmah.io can also monitor your server
 - [CatchJS](https://www.catchjs.com) - Screenshots, click trails, email notifications, remote object logging, intelligent error grouping. Extremely lightweight, only 1.78KB.
 - [Errorception](http://errorception.com/) - translate error messages to English; stack traces, source maps, smart grouping
 - [Muscula](http://www.muscula.com/) - source maps, translate error messages to English
