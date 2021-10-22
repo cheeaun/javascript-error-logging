@@ -8,6 +8,7 @@ Previously, on <https://gist.github.com/cheeaun/5835757>.
 Hosted services
 ---
 
+- [Logit.io](https://logit.io) - Log errors and metrics together in a single platform and choose from Grafana, Kibana or Open Distro for monitoring, alerting and reporting.
 - [elmah.io](https://elmah.io/features/clientside-logging/) - Error logging, uptime monitoring, and device insights for JavaScript apps. Everything from Vanilla JS to React, Angular, and Vue.js is supported and elmah.io can also monitor your server
 - [CatchJS](https://www.catchjs.com) - Screenshots, click trails, email notifications, remote object logging, intelligent error grouping. Extremely lightweight, only 1.78KB.
 - [Errorception](http://errorception.com/) - translate error messages to English; stack traces, source maps, smart grouping
@@ -15,7 +16,6 @@ Hosted services
 - [Airbrake](https://www.airbrake.io/) - tracekit, source maps. [No automatic error capture](https://github.com/airbrake/airbrake-js/issues/82).
 - [ErrorStack](http://www.errorstack.com/)
 - [The Root Cause](https://therootcause.io/) - RootCause provides you with a comprehensive set of tools to monitor and reproduce errors in web sites / applications. Using the built-in recorder feature you’ll know exactly what the user did. By Bryntum who also makes [Siesta](https://www.bryntum.com/products/siesta/) js ui + unit testing tool
-- [JSLogger](http://jslogger.com/)
 - [Sentry](https://www.sentry.io/) - source maps, tracekit, breadcrumbs, [inline React error codes](https://blog.sentry.io/2016/08/10/react-minified-errors.html); [free for <10,000 events/month](https://sentry.io/pricing); open source [server](https://github.com/getsentry/sentry) and [clients](https://github.com/getsentry/raven-js)
 - [Raygun](https://raygun.com/) - Error and crash reporting software, stack traces, breadcrumbs, source map support, custom data and tags, filtering, email and chat alerts, sensitive data filtering, deployment tracking, user tracking and real user monitoring (RUM), works with every major language and platform.
 - [Bugsnag](https://bugsnag.com/) - source maps
