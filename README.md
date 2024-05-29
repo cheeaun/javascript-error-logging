@@ -10,7 +10,7 @@ Hosted services
 
 - [elmah.io](https://elmah.io/features/clientside-logging/) - Error logging, uptime monitoring, and device insights for JavaScript apps. Everything from Vanilla JS to React, Angular, and Vue.js is supported and elmah.io can also monitor your server
 - [CatchJS](https://www.catchjs.com) - Screenshots, click trails, email notifications, remote object logging, intelligent error grouping. Extremely lightweight, only 1.78KB.
-- [Errorception](http://errorception.com/) - translate error messages to English; stack traces, source maps, smart grouping
+- [Errorception](http://errorception.com/) - translate error messages to English; stack traces, source maps, smart grouping.   Shutting down as of June, 2024 [Errorception shutdown notice](http://blog.errorception.com/2024/05/important-update-errorception-service.html)
 - [Muscula](http://www.muscula.com/) - source maps, translate error messages to English
 - [Airbrake](https://www.airbrake.io/) - tracekit, source maps. [No automatic error capture](https://github.com/airbrake/airbrake-js/issues/82).
 - [ErrorStack](http://www.errorstack.com/)
