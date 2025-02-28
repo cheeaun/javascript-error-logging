@@ -6,7 +6,7 @@ A collection of JavaScript error logging services, and comparisons among them.
 Previously, on <https://gist.github.com/cheeaun/5835757>.
 
 Hosted services
----
+---------------
 
 - [elmah.io](https://elmah.io/features/clientside-logging/) - Error logging, uptime monitoring, and device insights for JavaScript apps. Everything from Vanilla JS to React, Angular, and Vue.js is supported and elmah.io can also monitor your server
 - [CatchJS](https://www.catchjs.com) - Screenshots, click trails, email notifications, remote object logging, intelligent error grouping. Extremely lightweight, only 1.78KB.
@@ -19,11 +19,12 @@ Hosted services
 - [Sentry](https://www.sentry.io/) - source maps, tracekit, breadcrumbs, [inline React error codes](https://blog.sentry.io/2016/08/10/react-minified-errors.html); [free for <10,000 events/month](https://sentry.io/pricing); open source [server](https://github.com/getsentry/sentry) and [clients](https://github.com/getsentry/raven-js)
 - [Raygun](https://raygun.com/) - Error and crash reporting software, stack traces, breadcrumbs, source map support, custom data and tags, filtering, email and chat alerts, sensitive data filtering, deployment tracking, user tracking and real user monitoring (RUM), works with every major language and platform.
 - [Bugsnag](https://bugsnag.com/) - source maps
-- [Rollbar](https://rollbar.com/) - can [trace errors in 3rd party scripts](https://github.com/rollbar/rollbar.js/issues/108#issuecomment-121448333) as well; [free for <5000 events/month](https://rollbar.com/pricing/); source maps
+- [Rollbar](https://rollbar.com/) - can [trace errors in 3rd party scripts](https://github.com/rollbar/rollbar.js/issues/108#issuecomment-121448333) as well; [free for <5000 events/month](https://rollbar.com/pricing/); source maps; slow and somewhat cumbersome navigation among logged items
+- [Mezmo](https://mezmo.com) (formerly LogDNA) - observability platform focused on data processing pipelines, but has a live event viewer that can expand multiple log items simultaneously and you can send to it [any HTTP payload](https://docs.mezmo.com/telemetry-pipelines/pipeline-architecture--set-up-and-process-http-endpoint-data). Free plann with no retention, or 14-day free trials for plans charged by egress. Use the "Mezmo Log Analysys" and click on "Views" to see logged events.
 - [Honeybadger](https://www.honeybadger.io/)
 - [TrackJS](http://trackjs.com/) - stores timeline of events that have lead to the error
 - [Usersnap](http://usersnap.com/) - stack traces; [console recorder include XHR monitoring](https://usersnap.com/features/console-recorder)
-- [Atatus](https://www.atatus.com/) - real user monitoring(RUM), source maps, tracekit, timeline of events
+- [Atatus](https://www.atatus.com/) - real user monitoring (RUM), source maps, tracekit, timeline of events
 - [Loggly](https://www.loggly.com/docs/javascript/) - [no stack tracing](https://github.com/loggly/loggly-jslogger/issues/24)
 - [jsErrLog](http://jserrlog.appspot.com/) - running on the free Google AppEngine
 - [Ruxit Web Monitoring](https://ruxit.com/web-monitoring/) - real user and synthetic monitoring including stacktraces, originating user action and detailed browser metrics.
